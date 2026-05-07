@@ -1,0 +1,657 @@
+{
+  "total_cost": 276256.41,
+  "num_vehicles": 42,
+  "routes": [
+    {
+      "vehicle_id": 1,
+      "vehicle_type": "4.2M",
+      "route_orders": [
+        0
+      ],
+      "route_cities": [
+        "未知"
+      ],
+      "total_pallets": 0.0,
+      "cost": 1344.99,
+      "feasible": true,
+      "loading_rate": 0.0
+    },
+    {
+      "vehicle_id": 2,
+      "vehicle_type": "4.2M",
+      "route_orders": [
+        39
+      ],
+      "route_cities": [
+        "未知"
+      ],
+      "total_pallets": 3.33,
+      "cost": 0,
+      "feasible": false,
+      "loading_rate": 0
+    },
+    {
+      "vehicle_id": 3,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        1
+      ],
+      "route_cities": [
+        "太原"
+      ],
+      "total_pallets": 7.0,
+      "cost": 4292.56,
+      "feasible": true,
+      "loading_rate": 63.6
+    },
+    {
+      "vehicle_id": 4,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        2,
+        3
+      ],
+      "route_cities": [
+        "太原",
+        "太原"
+      ],
+      "total_pallets": 4.16,
+      "cost": 7206.84,
+      "feasible": true,
+      "loading_rate": 37.8
+    },
+    {
+      "vehicle_id": 5,
+      "vehicle_type": "9.6M",
+      "route_orders": [
+        4
+      ],
+      "route_cities": [
+        "太原"
+      ],
+      "total_pallets": 11.22,
+      "cost": 8067.21,
+      "feasible": true,
+      "loading_rate": 80.2
+    },
+    {
+      "vehicle_id": 6,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "route_cities": [
+        "太原",
+        "太原",
+        "太原",
+        "太原"
+      ],
+      "total_pallets": 8.35,
+      "cost": 0,
+      "feasible": false,
+      "loading_rate": 0
+    },
+    {
+      "vehicle_id": 7,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        17
+      ],
+      "route_cities": [
+        "天津"
+      ],
+      "total_pallets": 0.03,
+      "cost": 10265.12,
+      "feasible": true,
+      "loading_rate": 0.3
+    },
+    {
+      "vehicle_id": 8,
+      "vehicle_type": "9.6M",
+      "route_orders": [
+        18
+      ],
+      "route_cities": [
+        "天津"
+      ],
+      "total_pallets": 12.33,
+      "cost": 7467.21,
+      "feasible": true,
+      "loading_rate": 88.1
+    },
+    {
+      "vehicle_id": 9,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        19
+      ],
+      "route_cities": [
+        "天津"
+      ],
+      "total_pallets": 8.38,
+      "cost": 0,
+      "feasible": false,
+      "loading_rate": 0
+    },
+    {
+      "vehicle_id": 10,
+      "vehicle_type": "9.6M",
+      "route_orders": [
+        20
+      ],
+      "route_cities": [
+        "天津"
+      ],
+      "total_pallets": 12.59,
+      "cost": 7467.21,
+      "feasible": true,
+      "loading_rate": 89.9
+    },
+    {
+      "vehicle_id": 11,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        21
+      ],
+      "route_cities": [
+        "天津"
+      ],
+      "total_pallets": 8.38,
+      "cost": 0,
+      "feasible": false,
+      "loading_rate": 0
+    },
+    {
+      "vehicle_id": 12,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        22,
+        23
+      ],
+      "route_cities": [
+        "天津",
+        "天津"
+      ],
+      "total_pallets": 2.73,
+      "cost": 6726.84,
+      "feasible": true,
+      "loading_rate": 24.8
+    },
+    {
+      "vehicle_id": 13,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        24
+      ],
+      "route_cities": [
+        "天津"
+      ],
+      "total_pallets": 10.04,
+      "cost": 6678.84,
+      "feasible": true,
+      "loading_rate": 91.2
+    },
+    {
+      "vehicle_id": 14,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        25,
+        26
+      ],
+      "route_cities": [
+        "天津",
+        "天津"
+      ],
+      "total_pallets": 1.12,
+      "cost": 6726.84,
+      "feasible": true,
+      "loading_rate": 10.2
+    },
+    {
+      "vehicle_id": 15,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        36
+      ],
+      "route_cities": [
+        "北京"
+      ],
+      "total_pallets": 0.12,
+      "cost": 4484.56,
+      "feasible": true,
+      "loading_rate": 1.1
+    },
+    {
+      "vehicle_id": 16,
+      "vehicle_type": "9.6M",
+      "route_orders": [
+        37
+      ],
+      "route_cities": [
+        "北京"
+      ],
+      "total_pallets": 11.22,
+      "cost": 7767.21,
+      "feasible": true,
+      "loading_rate": 80.2
+    },
+    {
+      "vehicle_id": 17,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        38
+      ],
+      "route_cities": [
+        "北京"
+      ],
+      "total_pallets": 2.67,
+      "cost": 6918.84,
+      "feasible": true,
+      "loading_rate": 24.2
+    },
+    {
+      "vehicle_id": 18,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        42
+      ],
+      "route_cities": [
+        "北京"
+      ],
+      "total_pallets": 8.5,
+      "cost": 4820.56,
+      "feasible": true,
+      "loading_rate": 77.3
+    },
+    {
+      "vehicle_id": 19,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        52,
+        53
+      ],
+      "route_cities": [
+        "北京",
+        "北京"
+      ],
+      "total_pallets": 6.11,
+      "cost": 17183.96,
+      "feasible": true,
+      "loading_rate": 55.6
+    },
+    {
+      "vehicle_id": 20,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        66
+      ],
+      "route_cities": [
+        "北京"
+      ],
+      "total_pallets": 7.66,
+      "cost": 0,
+      "feasible": false,
+      "loading_rate": 0
+    },
+    {
+      "vehicle_id": 21,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        67,
+        68
+      ],
+      "route_cities": [
+        "北京",
+        "北京"
+      ],
+      "total_pallets": 6.23,
+      "cost": 0,
+      "feasible": false,
+      "loading_rate": 0
+    },
+    {
+      "vehicle_id": 22,
+      "vehicle_type": "9.6M",
+      "route_orders": [
+        43
+      ],
+      "route_cities": [
+        "正定"
+      ],
+      "total_pallets": 12.33,
+      "cost": 7767.21,
+      "feasible": true,
+      "loading_rate": 88.1
+    },
+    {
+      "vehicle_id": 23,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        44,
+        45
+      ],
+      "route_cities": [
+        "正定",
+        "正定"
+      ],
+      "total_pallets": 4.33,
+      "cost": 0,
+      "feasible": false,
+      "loading_rate": 0
+    },
+    {
+      "vehicle_id": 24,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        60
+      ],
+      "route_cities": [
+        "呼和浩特"
+      ],
+      "total_pallets": 2.78,
+      "cost": 9785.12,
+      "feasible": true,
+      "loading_rate": 25.3
+    },
+    {
+      "vehicle_id": 25,
+      "vehicle_type": "9.6M",
+      "route_orders": [
+        9
+      ],
+      "route_cities": [
+        "杭州"
+      ],
+      "total_pallets": 11.39,
+      "cost": 8067.21,
+      "feasible": true,
+      "loading_rate": 81.3
+    },
+    {
+      "vehicle_id": 26,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        10,
+        11
+      ],
+      "route_cities": [
+        "杭州",
+        "杭州"
+      ],
+      "total_pallets": 7.36,
+      "cost": 0,
+      "feasible": false,
+      "loading_rate": 0
+    },
+    {
+      "vehicle_id": 27,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        27
+      ],
+      "route_cities": [
+        "济南"
+      ],
+      "total_pallets": 9.22,
+      "cost": 6678.84,
+      "feasible": true,
+      "loading_rate": 83.8
+    },
+    {
+      "vehicle_id": 28,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        28,
+        29,
+        30,
+        31
+      ],
+      "route_cities": [
+        "济南",
+        "济南",
+        "济南",
+        "济南"
+      ],
+      "total_pallets": 3.51,
+      "cost": 0,
+      "feasible": false,
+      "loading_rate": 0
+    },
+    {
+      "vehicle_id": 29,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        32
+      ],
+      "route_cities": [
+        "济南"
+      ],
+      "total_pallets": 10.83,
+      "cost": 4484.56,
+      "feasible": true,
+      "loading_rate": 98.5
+    },
+    {
+      "vehicle_id": 30,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        33,
+        34,
+        35
+      ],
+      "route_cities": [
+        "济南",
+        "济南",
+        "济南"
+      ],
+      "total_pallets": 1.57,
+      "cost": 0,
+      "feasible": false,
+      "loading_rate": 0
+    },
+    {
+      "vehicle_id": 31,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        12,
+        13,
+        46,
+        47
+      ],
+      "route_cities": [
+        "沈阳",
+        "沈阳",
+        "沈阳",
+        "沈阳"
+      ],
+      "total_pallets": 9.33,
+      "cost": 0,
+      "feasible": false,
+      "loading_rate": 0
+    },
+    {
+      "vehicle_id": 32,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        48,
+        49
+      ],
+      "route_cities": [
+        "沈阳",
+        "沈阳"
+      ],
+      "total_pallets": 4.99,
+      "cost": 9953.12,
+      "feasible": true,
+      "loading_rate": 45.3
+    },
+    {
+      "vehicle_id": 33,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        14,
+        50,
+        51
+      ],
+      "route_cities": [
+        "吉林",
+        "吉林",
+        "吉林"
+      ],
+      "total_pallets": 6.94,
+      "cost": 12219.4,
+      "feasible": true,
+      "loading_rate": 63.1
+    },
+    {
+      "vehicle_id": 34,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        15,
+        16
+      ],
+      "route_cities": [
+        "长春",
+        "长春"
+      ],
+      "total_pallets": 1.07,
+      "cost": 12171.4,
+      "feasible": true,
+      "loading_rate": 9.7
+    },
+    {
+      "vehicle_id": 35,
+      "vehicle_type": "4.2M",
+      "route_orders": [
+        40
+      ],
+      "route_cities": [
+        "武汉"
+      ],
+      "total_pallets": 1.25,
+      "cost": 0,
+      "feasible": false,
+      "loading_rate": 0
+    },
+    {
+      "vehicle_id": 36,
+      "vehicle_type": "4.2M",
+      "route_orders": [
+        41
+      ],
+      "route_cities": [
+        "武汉"
+      ],
+      "total_pallets": 3.56,
+      "cost": 0,
+      "feasible": false,
+      "loading_rate": 0
+    },
+    {
+      "vehicle_id": 37,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        54,
+        55,
+        56
+      ],
+      "route_cities": [
+        "重庆",
+        "重庆",
+        "重庆"
+      ],
+      "total_pallets": 8.56,
+      "cost": 16991.96,
+      "feasible": true,
+      "loading_rate": 77.8
+    },
+    {
+      "vehicle_id": 38,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        57,
+        58,
+        59
+      ],
+      "route_cities": [
+        "重庆",
+        "重庆",
+        "重庆"
+      ],
+      "total_pallets": 2.92,
+      "cost": 9881.12,
+      "feasible": true,
+      "loading_rate": 26.5
+    },
+    {
+      "vehicle_id": 39,
+      "vehicle_type": "7.6M",
+      "route_orders": [
+        61,
+        62
+      ],
+      "route_cities": [
+        "乌鲁木齐",
+        "乌鲁木齐"
+      ],
+      "total_pallets": 5.6,
+      "cost": 0,
+      "feasible": false,
+      "loading_rate": 0
+    },
+    {
+      "vehicle_id": 40,
+      "vehicle_type": "9.6M",
+      "route_orders": [
+        63
+      ],
+      "route_cities": [
+        "乌鲁木齐"
+      ],
+      "total_pallets": 12.66,
+      "cost": 23612.56,
+      "feasible": true,
+      "loading_rate": 90.4
+    },
+    {
+      "vehicle_id": 41,
+      "vehicle_type": "9.6M",
+      "route_orders": [
+        64
+      ],
+      "route_cities": [
+        "乌鲁木齐"
+      ],
+      "total_pallets": 12.18,
+      "cost": 23612.56,
+      "feasible": true,
+      "loading_rate": 87.0
+    },
+    {
+      "vehicle_id": 42,
+      "vehicle_type": "9.6M",
+      "route_orders": [
+        65
+      ],
+      "route_cities": [
+        "乌鲁木齐"
+      ],
+      "total_pallets": 12.06,
+      "cost": 23612.56,
+      "feasible": true,
+      "loading_rate": 86.1
+    }
+  ],
+  "avg_loading_rate": 56.7,
+  "vehicle_types_used": {
+    "4.2M": 4,
+    "7.6M": 29,
+    "9.6M": 9
+  },
+  "q1_cost": 555065.46,
+  "saving": 278809.05,
+  "saving_rate": 50.23
+}
